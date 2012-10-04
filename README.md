@@ -1,0 +1,4 @@
+capistrano-recipes
+==================
+
+Capistrano recipes
